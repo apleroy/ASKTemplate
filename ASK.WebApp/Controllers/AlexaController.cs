@@ -25,8 +25,8 @@ namespace ASK.WebApp.Controllers
         }
 
 
-        [HttpPost, Route("api/v1/alexa/meetandgreet")]
-        public dynamic MeetAndGreet(AlexaRequestPayload alexaRequestInput)
+        [HttpPost, Route("api/v1/alexa/yourroute")]
+        public dynamic YourRoute(AlexaRequestPayload alexaRequestInput)
         {
             return _alexaRequestService.ProcessAlexaRequest(alexaRequestInput);
         }
