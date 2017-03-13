@@ -1,4 +1,3 @@
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.csprojResolveAssemblyReference.cache
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ApplicationInsights.config
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\roslyn\csc.exe
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -16,6 +15,8 @@ C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\A
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.WebApp.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.WebApp.pdb
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Core.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Domain.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Repository.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Services.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\EntityFramework.dll
@@ -47,6 +48,7 @@ C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\M
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Newtonsoft.Json.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Owin.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Swashbuckle.Core.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Net.Http.Formatting.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.Helpers.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.Http.dll
@@ -58,10 +60,11 @@ C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\S
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.WebPages.Deployment.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.WebPages.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\WebActivatorEx.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\WebGrease.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Domain.dll
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\BouncyCastle.Crypto.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Core.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Core.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Domain.pdb
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Repository.pdb
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Services.pdb
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Microsoft.AI.DependencyCollector.xml
@@ -102,11 +105,8 @@ C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\M
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\System.Web.Http.Owin.xml
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Domain.pdb
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\ASK.Core.pdb
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.csprojResolveAssemblyReference.cache
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.Migrations.initial.resources
 C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.csproj.GenerateResource.Cache
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\Swashbuckle.Core.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\bin\WebActivatorEx.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.WebApp\obj\Debug\ASK.WebApp.pdb
