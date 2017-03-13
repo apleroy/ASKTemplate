@@ -11,6 +11,7 @@ namespace ASK.Services
             get
             {
                 return "HelloWorldIntent";
+
             }
         }
 
@@ -24,7 +25,7 @@ namespace ASK.Services
 
         public AlexaResponse HandleAlexaRequest(AlexaRequestPayload alexaRequest)
         {
-            return new AlexaResponse("Hello World");
+            return new AlexaResponse("Hello World");  
         }
     }
 }
