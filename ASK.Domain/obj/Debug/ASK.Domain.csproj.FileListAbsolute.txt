@@ -1,0 +1,7 @@
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Debug\ASK.Domain.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Debug\ASK.Domain.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\obj\Debug\ASK.Domain.csprojResolveAssemblyReference.cache
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\obj\Debug\ASK.Domain.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\obj\Debug\ASK.Domain.pdb

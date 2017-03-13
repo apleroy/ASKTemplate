@@ -1,0 +1,16 @@
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\ASK.Repository.dll.config
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\ASK.Repository.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\ASK.Repository.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\ASK.Domain.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\EntityFramework.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\Newtonsoft.Json.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\ASK.Domain.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\EntityFramework.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\bin\Release\Newtonsoft.Json.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\obj\Release\ASK.Repository.csprojResolveAssemblyReference.cache
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\obj\Release\ASK.Repository.Migrations.initial.resources
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\obj\Release\ASK.Repository.csproj.GenerateResource.Cache
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\obj\Release\ASK.Repository.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Repository\obj\Release\ASK.Repository.pdb

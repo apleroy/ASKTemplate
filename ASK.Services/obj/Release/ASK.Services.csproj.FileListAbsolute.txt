@@ -1,0 +1,16 @@
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Services.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Services.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Core.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Domain.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Repository.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\EntityFramework.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Core.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Domain.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\ASK.Repository.pdb
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\bin\Release\EntityFramework.xml
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\obj\Release\ASK.Services.csprojResolveAssemblyReference.cache
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\obj\Release\ASK.Services.dll
+C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Services\obj\Release\ASK.Services.pdb
