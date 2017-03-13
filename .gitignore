@@ -240,6 +240,3 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-/ASK.WebApp/Web.config
-/ASK.WebApp/Web.Debug.config
-/ASK.WebApp/Web.Release.config
