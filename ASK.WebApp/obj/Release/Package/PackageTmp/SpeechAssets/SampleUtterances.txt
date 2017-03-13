@@ -1,6 +1,0 @@
-﻿
-HelloWorldIntent hello world
-
-AMAZON.CancelIntent cease everything
-AMAZON.StopIntent abort
-AMAZON.HelpIntent give me guidance

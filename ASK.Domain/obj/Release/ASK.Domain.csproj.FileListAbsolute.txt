@@ -1,6 +1,0 @@
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Release\ASK.Domain.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Release\ASK.Domain.pdb
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Release\Newtonsoft.Json.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\bin\Release\Newtonsoft.Json.xml
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\obj\Release\ASK.Domain.dll
-C:\Users\apler\Documents\Visual Studio 2015\Projects\ASK.WebApp\ASK.Domain\obj\Release\ASK.Domain.pdb
