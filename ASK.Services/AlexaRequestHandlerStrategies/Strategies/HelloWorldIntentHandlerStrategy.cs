@@ -11,7 +11,6 @@ namespace ASK.Services
             get
             {
                 return "HelloWorldIntent";
-
             }
         }
 

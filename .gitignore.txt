@@ -1,0 +1,7 @@
+# FAKE - F# Make
+.fake/
+/ASK/Properties/PublishProfiles
+/ASK.WebApp/Web.config
+/ASK.WebApp/Web.Debug.config
+/ASK.WebApp/Web.Release.config
+/ASK.WebApp/Properties/PublishProfiles
